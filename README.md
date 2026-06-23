@@ -1,7 +1,7 @@
-Sistema de Gestión de Ventas e Inventario
 
+## Sistema de Gestión de Ventas e Inventario
 
-## 1. Descripción del proyecto
+ 1. Descripción del proyecto
 
 **Sistema modelado:**  
 Se implementó un sistema relacional orientado a la gestión de ventas para una tienda tecnológica. Este sistema permite administrar el catálogo de productos con sus precios, registrar información de clientes y llevar un control detallado de cada compra mediante un historial de ventas con cantidades asociadas.
