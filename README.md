@@ -1,3 +1,6 @@
+Sistema de Gestión de Ventas e Inventario
+
+
 ## 1. Descripción del proyecto
 
 **Sistema modelado:**  
